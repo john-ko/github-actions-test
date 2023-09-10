@@ -1,0 +1,5 @@
+name: 'loggerblogger'
+description: 'something'
+runs:
+  using: 'node18'
+  main: 'actions/actions.js'
